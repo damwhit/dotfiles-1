@@ -4,5 +4,6 @@ source ~/.zsh/homebrew
 source ~/.zsh/options
 source ~/.zsh/prompt
 source ~/.zsh/aliases
+source ~/.zsh/gitplugin
 source ~/.zsh/completion
 source ~/.zsh/path

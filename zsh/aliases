@@ -16,3 +16,4 @@ alias gitcm='git c'
 alias gita='git add'
 
 alias aic='aicommits'
+alias home='cd ~'
