@@ -37,9 +37,9 @@
   colorMoved = zebra
   mnemonicprefix = true
 [user]
-  name = Nick Weiland
-  email = nickweiland@gmail.com
-  username = weilandia
+  name = David Whitaker
+  email = damwhit@gmail.com
+  username = damwhit
 [log]
   abbrevCommit = true
   follow = true
